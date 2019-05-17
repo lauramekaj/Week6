@@ -1,5 +1,4 @@
-# Week6
-Creating plots using Python code
+# Creating plots using Python code
 First uploading the library to create the plot is needed:
 import matplotlib.pyplot as plt
 import numpy as np
